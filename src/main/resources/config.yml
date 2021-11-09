@@ -1,0 +1,12 @@
+item:
+  name: "&4PyroAxe"
+  material: DIAMOND_AXE
+  damage-multiplier: 0.5
+  lore:
+    - "&4I come from the Iron Hills"
+  enchants:
+    DAMAGE_ALL: 5
+    FIRE_ASPECT: 1
+  sounds:
+    ANVIL_LAND: 1
+    ZOMBIE_WOODBREAK: 1

@@ -1,0 +1,11 @@
+name: PyroAxe
+author: Negative
+version: '${project.version}'
+main: dev.negativekb.pyroaxe.PyroAxe
+
+commands:
+  pyroaxe:
+    aliases: [ "paxe" ]
+    usage: /<command>
+    description: Main command for the PyroAxe plugin
+
